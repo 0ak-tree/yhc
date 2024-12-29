@@ -1,0 +1,4 @@
+[wargame]
+title = Ethereversing
+tags = reversing
+flag = WaPR{e2c65073ab65363533c33c4b32621eae4fc78abe566e334c53c89524c59b0b7b}

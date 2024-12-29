@@ -1,0 +1,4 @@
+[wargame]
+title = Obfuscation Basic 101
+tags = reversing
+flag = WaRP{7047480c5d7bcb7b1beeb867f8e86d678508fa0c1b1ff8146b6c6aae35930f20}
