@@ -1,0 +1,12 @@
+[wargame]
+title = Yorix' Light Novel Club
+tags = reversing, pwnable, crypto
+flag = WaPR{93e9a652d0972f52d330d41f646f0f7c0ef8ea844eb48eb43c3f740ea5c0e1fa}
+
+[vm]
+os = linux
+memory = 512
+disk = 1024
+ports = 4444/tcp
+allow_outgoing = false
+docker_compose = false
